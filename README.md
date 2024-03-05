@@ -1,5 +1,5 @@
 # social_media
-[![Overview](https://app.eraser.io/workspace/a7VRXXkSU3AxxXgnXtL3/preview?elements=HdLl1pH2XP-BaavxLNlbCQ&type=embed)](https://app.eraser.io/workspace/a7VRXXkSU3AxxXgnXtL3?elements=HdLl1pH2XP-BaavxLNlbCQ)
+<img src="https://i.ibb.co/5TRfjhk/Screenshot-from-2024-03-05-21-34-48.png" alt="Screenshot-from-2024-03-05-21-34-48" border="0">
 # architecture link
 https://app.eraser.io/workspace/a7VRXXkSU3AxxXgnXtL3?origin=share
 # source code 
